@@ -14,7 +14,6 @@ This project presents a Power BI dashboard that analyzes global sales data.
 - Excel Dataset
 - Data Visualization
 
-## Screenshot
 
 
 ## Author
